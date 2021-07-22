@@ -35,6 +35,6 @@
     "node-excel-to-json": "0.0.3",
     "node-string-pad": "0.0.4",
     "sha256": "^0.2.0",
-    "xlsx": "^0.11.4"
+    "xlsx": "^0.17.0"
   }
 }
